@@ -104,7 +104,7 @@ footer {
 
 section {
     margin-bottom: 2em;
-    text-align: center; /* Centra el texto dentro de la sección */
+    text-align: left; /* Centra el texto dentro de la sección */
 }
 
 section img {
